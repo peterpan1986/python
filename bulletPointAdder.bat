@@ -1,0 +1,1 @@
+@py.exe F:\python\book1\bulletPointAdder.py %*
